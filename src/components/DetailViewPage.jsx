@@ -29,4 +29,4 @@ const DetailViewPage = () => {
   );
 };
 
-export default DetailViewPage;
+export default DetailViewPage;
